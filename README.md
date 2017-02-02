@@ -44,3 +44,8 @@ The run.sh file will demonstrate the code.
 - default = 100
 - minimum = 0
 - maximum = 10,000
+
+
+
+[![DOI](https://zenodo.org/badge/43528073.svg)](https://zenodo.org/badge/latestdoi/43528073)
+
